@@ -2,7 +2,7 @@
 
 A stylish terminal-based chat client for interacting with AI agents through an ASCII art interface.
 
-![CowUI Screenshot](docs/screenshot.png)
+![CowUI Screenshot](docs/screenshots/screenshot.png)
 
 ## Features
 
